@@ -1,6 +1,6 @@
 {
   "name": "example-yarn-workspace-3",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "example-yarn-workspace-1": "^1.0.0"
   },
