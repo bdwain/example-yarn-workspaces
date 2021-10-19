@@ -4,5 +4,10 @@
   "devDependencies": {
     "example-yarn-workspace-5": "^1.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bdwain/example-yarn-workspaces.git",
+    "directory":"packages/example-yarn-workspace-6"
+  },
   "main": "index.js"
 }

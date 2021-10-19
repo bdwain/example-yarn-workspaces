@@ -5,5 +5,10 @@
     "example-yarn-workspace-3": "^1.0.0",
     "left-pad": "1.1.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bdwain/example-yarn-workspaces.git",
+    "directory":"packages/example-yarn-workspace-4"
+  },
   "main": "index.js"
 }
